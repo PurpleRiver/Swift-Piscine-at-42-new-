@@ -9,12 +9,18 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    @IBOutlet weak var helloLabel: UILabel!
+    
+    
+    @IBAction func greetButtonIsPressed(_ sender: UIButton) {
+        helloLabel.isHidden = false
+        print("Hello World!")
+    }
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
-
-
 }
 
