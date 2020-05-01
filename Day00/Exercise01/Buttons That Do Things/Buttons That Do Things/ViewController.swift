@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Buttons That Do Things
+//  Join The OO Party
 //
 //  Created by Blurry Rabbit on 01.05.2020.
 //  Copyright © 2020 Blurry Rabbit. All rights reserved.
